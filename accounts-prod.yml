@@ -1,0 +1,10 @@
+build:
+  version: "1.0prod"
+
+accounts:
+  message: "Welcome to Cards Related Prod API's"
+  contactDetails:
+    name: "Product Manager - Prod"
+    email: "produMag@gmail.com"
+  support:
+    - (+91) 999999999

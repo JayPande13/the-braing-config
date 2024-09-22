@@ -1,0 +1,10 @@
+build:
+  version: "1.0dev"
+
+loans:
+  message: "Welcome to Loans Related local API's"
+  contactDetails:
+    name: "Jay Pande - Developer"
+    email: "jmaypande@gmail.com"
+  support:
+      - (+91) 7351733644
