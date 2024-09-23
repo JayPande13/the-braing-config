@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Cards Related QA API's"
   contactDetails:
-    name: "QA User - QA"
+    name: "QA User - QA - Environment"
     email: "qa@gmail.com"
   support:
       - (+91) 999999999
