@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Cards Related Production API's"
   contactDetails:
-    name: "Product Manager - Production"
+    name: "Product Manager - Accounts - Production"
     email: "produMag@gmail.com"
   support:
     - (+91) 999999999
