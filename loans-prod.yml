@@ -2,9 +2,9 @@ build:
   version: "1.0prod"
 
 loans:
-  message: "Welcome to Account Related Prod API's"
+  message: "Welcome to Account Related Production API's"
   contactDetails:
-    name: "Manager"
+    name: "Manager - Production"
     email: "manager@gmail.com"
   support:
     - (+91) 8677463782
