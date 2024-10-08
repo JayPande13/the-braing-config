@@ -1,0 +1,12 @@
+server:
+  port: 8070
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false # false meaning -> Eureka server will not call registry details of other microservices, as we won't be calling any microservice from eureka
+    # whereas in out individual microservices like accounts,loans and cards this value will be true, as they have to contact with each other.
+    registerWithEureka: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ # this is the URL in which eureka will expose its details and other service will register itself.
