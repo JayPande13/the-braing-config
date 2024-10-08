@@ -2,7 +2,7 @@ build:
   version: "1.0dev"
 
 accounts:
-  message: "Welcome to Cards Related local API's"
+  message: "Welcome to Accounts Related Docker Deployed API's"
   contactDetails:
     name: "Jay Pande - Developer"
     email: "{cipher}51d150c048959f73868f1d629c3f87c451d9265b20e0d87978b1b8c8f2dfb17f7fa61bbdeb9fa478dd603d5b56d1ae39"
